@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Documentation Starter Kit",
+  "name": "Wallet Kit Documentation",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
@@ -19,7 +19,7 @@
   ],
   "topbarCtaButton": {
     "name": "Get Started",
-    "url": "https://github.com/mintlify/starter"
+    "url": "https://github.com/walletkit-io/"
   },
   "anchors": [
     {
@@ -58,8 +58,8 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/walletkit-io",
+    "github": "https://github.com/walletkit-io",
+    "linkedin": "https://www.linkedin.com/company/walletkit-io"
   }
 }
